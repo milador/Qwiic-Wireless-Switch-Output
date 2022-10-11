@@ -1,9 +1,13 @@
 # This is a project based on Qwiic Adaptive Switch modules
 This repository offers the required information for creating an Open Source Assistive Technology using [Qwiic Adaptive Switch modules](https://github.com/milador/Qwiic-Adaptive-Switch).
 
-## [Project Title]
+## Qwiic-Wireless-Switch-Output
 
-This is the description of the Open Source Assistive Technology created based on Qwiic Adaptive Switch modules and other components.
+A simple wireless adaptive switch output device based on ESP32 M5StickC and Qwiic Adaptive Switch Output module which offers up to two 3.5mm switch outputs. 
+
+<p align="center">
+<img align="center" src="./Resources/Images/Qwiic_Wireless_Switch_Output.png" width="50%" height="50%" alt="Setup Diagram"/>
+</p>
 
 ## Requirements and setup instructions 
 The setup process is divided to three main catagories:
